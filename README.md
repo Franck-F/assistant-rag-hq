@@ -80,5 +80,5 @@ assistant-rag-hq/
 Les contributions sont les bienvenues ! Ouvrez une issue ou faites une pull request.
 
 ## 🛡️ Licence
-Ce projet est sous licence GUI.
+Ce projet est sous licence GNU.
 
