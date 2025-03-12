@@ -1,1 +1,15 @@
+fastapi
+uvicorn
+streamlit
+chromadb
+rank_bm25
+cohere
+langchain
+openai
+pydantic
+python-dotenv
+pypdf
+numpy
+scikit-learn
+sentence-transformers
 
