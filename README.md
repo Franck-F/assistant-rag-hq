@@ -68,7 +68,8 @@ assistant-rag-hq/
 │   └── frontend.py      # Interface utilisateur Streamlit
 ├── requirements.txt     # Dépendances du projet
 ├── README.md            # Documentation
-└── .env.example         # Exemple de configuration
+├── .env  
+└── RAG_Avancé.ipynb                # Exemple de configuration
 ```
 
 ##  Améliorations Futures
