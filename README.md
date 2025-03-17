@@ -7,7 +7,7 @@ Cet assistant IA est basé sur **Retrieval-Augmented Generation (RAG)** avec une
 - **Base de connaissances** : ChromaDB, BM25
 - **Optimisation de la recherche** : Cohere Reranking
 - **Framework** : LangChain
-- **Modèle de génération** : OpenAI
+- **Modèle de génération** : Gemini
 - **Backend** : FastAPI
 - **Frontend** : Streamlit
 - **Extraction de texte des PDF** : Pydantic
