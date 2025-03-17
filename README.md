@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ### 3. Configurer les variables d'environnement
 Créer un fichier `.env` pour stocker les clés API (OpenAI, Cohere, etc.) :
 ```env
-OPENAI_API_KEY=your_openai_key
+OPENAI_API_KEY=your_api_key
 COHERE_API_KEY=your_cohere_key
 ```
 
